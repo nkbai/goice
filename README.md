@@ -1,5 +1,5 @@
 # goice
-go implementation of ICE( RFC 5245),it doesn't depends any c library,so it can runs on all the platforms which go support.
+go implementation of ICE( RFC 5245),it doesn't depends any c library,so it can runs on all the platforms which go support. it only supports one component now.
 
 ## how to use
 please reference ice/exmaple/example.go, this a simple example to present how to setup a p2p connection between two nodes without any signal server.
